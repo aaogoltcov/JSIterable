@@ -2,8 +2,6 @@
 
 export default class Team {
     constructor() {
-        // this.array = array;
-        // this.iterator = this.array[Symbol.iterator]();
         this.members = new Set();
     }
 
